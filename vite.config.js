@@ -1,3 +1,5 @@
+import { resolve } from 'path'
+
 export default {
     // config options
     base: '/landing-page-personal-danielgarcia/',
