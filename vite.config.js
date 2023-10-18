@@ -1,6 +1,6 @@
 export default {
     // config options
-    base: '/landing-page-personal-danielgarcia/'
+    base: '/landing-page-personal-danielgarcia/',
     build: {
       rollupOptions: {
         input: {
